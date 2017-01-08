@@ -11,7 +11,8 @@ Step 2 : Set Up Command Aliases in Linux/Ubuntu/Debian
   Go to Home and Open ./bashrc file (ctrl+h :- to show hidden files)
 
   Just copy the below code in bottom of the file 
-    alias subq='python your_python_file_location' 
+   
+   alias subq='python your_python_file_location' 
   eg : alias subq='python       /home/basil/Videos/Latestsub/subd.py'
   
   and save
