@@ -13,6 +13,7 @@ Step 2 : Set Up Command Aliases in Linux/Ubuntu/Debian
   Just copy the below code in bottom of the file 
    
    alias subq='python your_python_file_location' 
+  
   eg : alias subq='python       /home/basil/Videos/Latestsub/subd.py'
   
   and save
